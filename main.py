@@ -1,5 +1,5 @@
 from ui_manager import run_gui
-
+#main function
 def main():
    
     print("🔍 Launching the AI Deadlock Detection System...")
